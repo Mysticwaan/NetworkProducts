@@ -56,7 +56,7 @@ Compact unmanaged gigabit switch — perfect for simple LAN extension and loop p
 ---
 
 <details open>
-<summary>🧠 <strong>Switching Equipment in Action</strong></summary>
+<summary>🧠 <strong>Cisco Catalyst 2960 Plus Series PoE switch: Switching Equipment in Action</strong></summary>
 
 | ![Image 7](https://github.com/user-attachments/assets/c15e7c94-6b74-4e34-b5a9-372ce3d366ae) | ![Image 8](https://github.com/user-attachments/assets/14b1bd71-8b91-41af-af46-1e85bfdcd18c) |
 |:--:|:--:|
@@ -64,7 +64,7 @@ Compact unmanaged gigabit switch — perfect for simple LAN extension and loop p
 | ![Image 9](https://github.com/user-attachments/assets/c8aabcf1-54a7-4362-ba8a-3425c75e04c2) |
 |:--:|
 
-**Views of a managed switch setup** connected with bundled cables and used as a central device for structured connectivity in the lab. Indicator LEDs show port activity and PoE status.
+**Views of a managed switch setup:**  Cisco Catalyst 2960 Plus Series PoE switch connects network devices and intelligently forwards data. It also provides Power over Ethernet (PoE), supplying both power and data over a single cable to compatible devices.
 </details>
 
 ---
